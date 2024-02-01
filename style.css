@@ -119,3 +119,108 @@ body {
     align-items: center;
     gap: 15px;
 }
+
+.description {
+    margin-top: 50px;
+}
+
+.description_info {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    gap: 10px;
+    margin-left: 70px
+    
+}
+
+.icon {
+    margin-bottom: 16px;
+}
+
+.header_about_us {
+    margin-bottom: 16px;
+}
+
+.description_text {
+    width: 300px;
+    margin-bottom: 16px;
+}
+
+.description_button {
+    border: none;
+    background-color: white;
+}
+
+.choose_us {
+    margin-left: px;
+    padding-bottom: 100px;
+    
+}
+
+.header_choose_us {
+    margin-top: 100px;
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.choose_us_text {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    margin: auto;
+    width: 700px;
+}
+
+.advantages_block {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    margin-left: 90px 
+    
+}
+
+.advantages_img {
+    width: 330px;
+    margin-bottom: 16px;
+}
+
+.advantages_header {
+    margin-bottom: 16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.advantages_text {
+    width: 315px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 16px;
+}
+
+.advantages_button {
+    width: 140px;
+    height: 50px;
+    background: #F25822;
+    box-shadow: 4px 4px 8px rgb(245, 241, 241);
+    border-radius: 50px;
+    color:rgb(240, 245, 245);
+    border: none;
+    display: flex;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+}
+
+
